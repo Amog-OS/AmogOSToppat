@@ -2,7 +2,7 @@
 
 AmogOS 2.0 is going to be a full remake of AmogOS.
 
-# Features (Which have been confirmed)
+## Features (Which have been confirmed)
 
 - All ports will run on Linux Kernel 6.9 when it releases (All Alphas, Betas and few Release Candidates will run older kernels)
 
@@ -12,7 +12,7 @@ AmogOS 2.0 is going to be a full remake of AmogOS.
 
 - Airship themed of sorts (Toppat but eh)
 
-# Developers
+## Developers
 
 - @vedrane - is going to make the x64 port
 
@@ -24,7 +24,7 @@ AmogOS 2.0 is going to be a full remake of AmogOS.
 
 - @everytab - making the arm64 and armhf port
 
-# Notes
+## Notes
 
     We are not responsible for ANY KIND OF DATA LOSS or any kind of problem not relating to AmogOS, USE THIS AT YOUR OWN RISK.
     AmogOS was never intended to be a replacement for mainstream distributions; it's merely a joke and a sussy OS.

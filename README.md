@@ -12,7 +12,7 @@ AmogOS 2.0 Toppat is a full remake of the AmogOS operating system, themed around
 
 - Will mostly re-implement all the original features
 
-- Airship themed of sorts (Toppat but eh)
+- Toppat themed (still sussy, dont worry.)
 
 - Henry Stickmin games with open source Flash engine
 

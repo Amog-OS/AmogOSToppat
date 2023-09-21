@@ -1,5 +1,7 @@
 # AmogOS 2.0 (AmogOS Toppat)
 
+![AmogOS Toppat](https://raw.githubusercontent.com/Get-DevVed-YT/AmogOSToppat/main/amogostoppat.png)
+
 AmogOS 2.0 is going to be a full remake of AmogOS.
 
 ## Features (Which have been confirmed)

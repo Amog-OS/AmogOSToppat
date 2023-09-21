@@ -14,7 +14,7 @@ AmogOS 2.0 is going to be a full remake of AmogOS.
 
 ## Developers
 
-- @vedrane - is going to make the x64 port
+- [Get-DevVed-YT (Ved Rane)](https://github.com/Get-DevVed-YT/) - is going to make the x64 port
 
 - @lenni_builder - helping in the armhf port
 

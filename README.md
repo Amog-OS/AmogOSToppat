@@ -18,13 +18,13 @@ AmogOS 2.0 Toppat is a full remake of the AmogOS operating system, themed around
 
 ## Developers
 
-- @everytab - arm64 and armhf port
+- [@everytab](https://github.com/Everytab) - arm64 and armhf port
 
 - @lenni_builder - helping in the armhf port
 
 - @IAMACAR going to provide numerous sus programs and help
 
-- [Get-DevVed-YT (Ved Rane)](https://github.com/Get-DevVed-YT/) - x64/amd64 port
+- [@Get-DevVed-YT (Ved Rane)](https://github.com/Get-DevVed-YT/) - x64/amd64 port
 
 - With our great thanks to the original devs of AmogOS 1.x (All Imposter Devs, Nooz Daddy & Moon Mommy, asmins, and others) for guiding us, inspiring us and helping us continue the majestic legacy of AmogOS.
 

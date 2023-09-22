@@ -1,6 +1,6 @@
 # AmogOS 2.0 (AmogOS Toppat)
 
-![AmogOS Toppat](https://raw.githubusercontent.com/Get-DevVed-YT/AmogOSToppat/main/amogostoppat.png)
+![AmogOS Toppat](amogostoppat.png)
 
 AmogOS 2.0 Toppat is a full remake of the AmogOS operating system, themed around the earlier works by Innersloth, the Henry Stickmin games.
 

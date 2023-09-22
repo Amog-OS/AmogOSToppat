@@ -1,6 +1,8 @@
 # AmogOS 2.0 (AmogOS Toppat)
 
-AmogOS 2.0 is going to be a full remake of AmogOS.
+![AmogOS Toppat](https://raw.githubusercontent.com/Get-DevVed-YT/AmogOSToppat/main/amogostoppat.png)
+
+AmogOS 2.0 Toppat is a full remake of the AmogOS operating system, themed around the earlier works by Innersloth, the Henry Stickmin games.
 
 ## Features (Which have been confirmed)
 
@@ -10,19 +12,21 @@ AmogOS 2.0 is going to be a full remake of AmogOS.
 
 - Will mostly re-implement all the original features
 
-- Airship themed of sorts (Toppat but eh)
+- Toppat themed (still sussy, dont worry.)
+
+- Henry Stickmin games with open source Flash engine
 
 ## Developers
 
-- @vedrane - is going to make the x64 port
+- [@everytab](https://github.com/Everytab) - arm64 and armhf port
 
 - @lenni_builder - helping in the armhf port
 
 - @IAMACAR going to provide numerous sus programs and help
 
-- The original devs of AmogOS 1.x (All Imposter Devs, Nooz Daddy & Moon Mommy, asmins, and others) for guiding us, inspiring us and helping us continue the legacy of AmogOS
+- [@Get-DevVed-YT (Ved Rane)](https://github.com/Get-DevVed-YT/) - x64/amd64 port
 
-- @everytab - making the arm64 and armhf port
+- With our great thanks to the original devs of AmogOS 1.x (All Imposter Devs, Nooz Daddy & Moon Mommy, asmins, and others) for guiding us, inspiring us and helping us continue the majestic legacy of AmogOS.
 
 ## Notes
 

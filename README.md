@@ -6,7 +6,7 @@ AmogOS 2.0 Toppat is a full remake of the AmogOS operating system, themed around
 
 ## Features (Which have been confirmed)
 
-- All ports will run on Linux Kernel 6.9 when it releases (All Alphas, Betas and few Release Candidates will run older kernels)
+- All ports will run on Linux Kernel 6.9 when it releases (All Alphas, Betas and few Release Candidates will run older kernels) (NuKernel)
 
 - The ports are x64, arm64, and armhf/arm32
 
@@ -15,6 +15,10 @@ AmogOS 2.0 Toppat is a full remake of the AmogOS operating system, themed around
 - Toppat themed (still sussy, dont worry.)
 
 - Henry Stickmin games with open source Flash engine
+  
+- Custom Desktop Environment (NuDesktop, not yet finalised)
+
+- More sus apps (NuApps)
 
 ## Developers
 
@@ -45,7 +49,7 @@ AmogOS 2.0 Toppat is a full remake of the AmogOS operating system, themed around
 
 ## Roadmap
 
-- Protocol 1.90 - July 2023 (arm64 Alpha)
+- Protocol 1.90 - August 2023 (arm64 Alpha)
 - Protocol 1.91 - September 2023 (x64 Alpha)
 - Protocol 1.92 - October/November 2023 (Beta 1)
 - Protocol 1.93 - December 2023 (Beta 2, might have NuDesktop)

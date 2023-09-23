@@ -32,3 +32,22 @@ AmogOS 2.0 Toppat is a full remake of the AmogOS operating system, themed around
 
     We are not responsible for ANY KIND OF DATA LOSS or any kind of problem not relating to AmogOS, USE THIS AT YOUR OWN RISK.
     AmogOS was never intended to be a replacement for mainstream distributions; it's merely a joke and a sussy OS.
+
+
+## Status
+
+**x64** - Protocol 1.91 - Kernel 6.1
+**arm64** - Protocol 1.90 - Kernel 6.4.0
+**armhf** - Not yet made
+**armhf(SurfaceRT)** - Not yet made
+
+(Protocol is the internal version system for AmogOS Toppat Alphas, Betas and Release Candidates, utilises a 1.9x scheme)
+
+## Roadmap
+
+Protocol 1.90 - July 2023 (arm64 Alpha)
+Protocol 1.91 - September 2023 (x64 Alpha)
+Protocol 1.92 - October/November 2023 (Beta 1)
+Protocol 1.93 - December 2023 (Beta 2, might have NuDesktop)
+Protocol 1.94 to 1.99 - January-April 2023 (Release Candidates, NuApps Tests, NuKernel Tests, NuDesktop Tests)
+Protocol 2.0 - April/May 2023 (Release)

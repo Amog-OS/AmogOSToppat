@@ -4,7 +4,7 @@
 
 AmogOS 2.0 Toppat is a full remake of the AmogOS operating system, themed around Among Us's fourth map - the Airship
 
-## Features (Which have been confirmed)
+## Features
 
 - All ports will run on Linux Kernel 6.9 when it releases (All Alphas, Betas and few Release Candidates will run older kernels) (NuKernel)
 
